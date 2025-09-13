@@ -1,2 +1,0 @@
-# Dark-Spawner
-Prevention leave
